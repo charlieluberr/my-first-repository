@@ -10,3 +10,7 @@ Important steps for git workflow:
 6. Review previoius changes with git log
 
 PRACTICING>>>
+
+# Table of Contents #
+
+example_file.txt
